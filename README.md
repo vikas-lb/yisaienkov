@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Kaggle Badge](https://img.shields.io/badge/-ihelon-mediumorchid?&style=flat&logo=kaggle&logoColor=#25bfff&link=https://www.kaggle.com/ihelon)](https://www.kaggle.com/ihelon)
 
 <!--
 **yisaienkov/yisaienkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
